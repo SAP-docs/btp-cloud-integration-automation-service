@@ -16,7 +16,7 @@ This section describes the steps to access the My Inbox tile and to get started 
     -   Choose *Instance and Subscriptions* on the side panel.
     -   Under Subscriptions, click the *Go To Application* icon next to Cloud Integration Automation service.
 
-    To find the link, either select the subscription row to view more details about the subscription or click the <span class="SAP-icons"></span> \(Go to Application\) icon in the Application column.
+    To find the link, either select the subscription row to view more details about the subscription or click the <span class="SAP-icons-V5"></span> \(Go to Application\) icon in the Application column.
 
 2.  Select the *My Inbox* tile.
 

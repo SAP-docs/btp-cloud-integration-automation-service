@@ -15,7 +15,7 @@ You can plan for an integration scenario in Cloud Integration Automation service
 1.  Launch the Cloud Integration Automation service.
 
     > ### Note:  
-    > The Cloud Integration Automation service link is available in the *Instances and Subscription* tab of the SAP BTP subaccount where Cloud Integration Automation service is subscribed. Choose the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons"></span> \(Go to Application\) icon in the *Application* column.
+    > The Cloud Integration Automation service link is available in the *Instances and Subscription* tab of the SAP BTP subaccount where Cloud Integration Automation service is subscribed. Choose the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons-V5"></span> \(Go to Application\) icon in the *Application* column.
 
 2.  Select the *Plan for Integration* tile.
 3.  Select one of the available solutions from the *Solutions* tab.

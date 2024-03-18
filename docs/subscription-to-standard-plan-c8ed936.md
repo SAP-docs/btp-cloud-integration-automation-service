@@ -23,7 +23,7 @@ To subscribe to a standard plan, following are the required steps:
 6.  Choose *Create*.
 7.  In the displayed window, select the *Standard* plan of type subscription and choose *Create*. A confirmation pop-up appears with the link to the **Instances and Subscriptions page**, where you can follow the status of your new subscription under the Subscriptions table.
 
-    The Go to Application link becomes available once the subscription is activated. Choose the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons"></span> \(Go to Application\) icon in the Application column.
+    The Go to Application link becomes available once the subscription is activated. Choose the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons-V5"></span> \(Go to Application\) icon in the Application column.
 
     > ### Caution:  
     > To remove an application, select the three dots at the end of the subscription row, and from the menu, select *Delete*. All data related to the Cloud Integration Automation service will be deleted in the respective subaccount.
