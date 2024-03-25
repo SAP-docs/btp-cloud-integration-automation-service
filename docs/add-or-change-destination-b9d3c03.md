@@ -3,7 +3,7 @@
 # Add or Change Destination
 
 **Prerequisites:**
-
+  
 You have integration administrator privileges.
 
 At certain points during the scenario execution, you as an integration administrator can change the destination, or enter it if it has not been entered already.
