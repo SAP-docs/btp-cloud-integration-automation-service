@@ -10,7 +10,7 @@
     -   [Prerequisites](prerequisites-2eae0b6.md)
     -   [Subscription to Cloud Integration Automation Service](subscription-to-cloud-integration-automation-service-b3a72d9.md)
         -   [Subscription to Standard Plan](subscription-to-standard-plan-c8ed936.md)
-        -   [Create Instance in OAuth2 Service Plan](create-instance-in-oauth2-service-plan-484ec5f.md)
+        -   [Create Instance in OAuth2 Service Plan](create-instance-in-oauth2-service-plan-6187a7e.md)
 -   Administration
     -   [Assigning Roles to the Users](assigning-roles-to-the-users-9ad530a.md)
     -   Planning a Cloud Integration Automation Service Scenario

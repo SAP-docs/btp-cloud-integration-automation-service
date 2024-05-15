@@ -8,5 +8,5 @@ Cloud Integration Automation service provides two plans:
 
 -   **Standard -** This is an application plan that provides capabilities to work with Cloud Integration Automation service UI application. User can plan an integration scenario, monitor and work on the tasks w.r.t integration scenario. Use this plan to subscribe to the application. To learn more, see [Subscription to Standard Plan](subscription-to-standard-plan-c8ed936.md).
 
--   **OAuth2 -** This is a service plan that provides access to the APIs of Cloud Integration Automation service. Using these APIs, user can fetch, create, update the integration scenarios and its tasks. For few scenarios like ABAP automation, this plan instance is a pre-requisite. To learn more, see [Create Instance in OAuth2 Service Plan](create-instance-in-oauth2-service-plan-484ec5f.md).
+-   **OAuth2 -** This is a service plan that provides access to the APIs of Cloud Integration Automation service. Using these APIs, user can fetch, create, update the integration scenarios and its tasks. For few scenarios like ABAP automation, this plan instance is a pre-requisite. To learn more, see [Create Instance in OAuth2 Service Plan](create-instance-in-oauth2-service-plan-6187a7e.md).
 
