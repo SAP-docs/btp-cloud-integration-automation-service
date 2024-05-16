@@ -6,17 +6,6 @@ You can create an instance of Cloud Integration Automation service in the OAuth2
 
 
 
-<a name="loio6187a7e05c484249a4dcd011812f21b1__prereq_k4j_tl1_kbc"/>
-
-## Prerequisites
-
-Ensure the following is completed before creating an instance:
-
-1.  Enable Cloud Foundry - *Cloud Foundry Environment* \> *Your Subaccount* \> *Enable Cloud Foundry*.
-2.  Create a Space - *Cloud Foundry Environment* \> *Your Subaccount* \> *Create Space*.
-
-
-
 ## Context
 
 In SAP BTP, Cloud Foundry environment, you enable services by creating a service instance using either the SAP BTP cockpit or the Cloud Foundry command-line interface \(CLI\), and binding that instance to your application. A service instance is a single instantiation of a service running on SAP BTP. For more information, see [About Services](https://help.sap.com/docs/btp/sap-business-technology-platform/about-services).
@@ -37,7 +26,7 @@ The service instance of Cloud Integration Automation service scales dynamically 
 
 5.  In the pop-up, choose plan *OAuth2*.
 
-6.  Choose *Cloud Foundry* as Runtime Environment.
+6.  Choose *Other* or *Cloud Foundry* as Runtime Environment.
 
     > ### Note:  
     > Cloud Foundry is displayed in the drop-down only if Cloud Foundry is enabled.
@@ -53,7 +42,6 @@ The service instance of Cloud Integration Automation service scales dynamically 
     2.  Choose *Create Service Key*. You can create a service key with or without a certificate. A certificate is required when setting up an mTLS communication.
 
         -   Create a service key with certificate
-
             1.  In the *New Service Key* wizard, choose a name for your service key and specify the following parameters in JSON format:
 
                 > ### Sample Code:  
@@ -76,29 +64,9 @@ The service instance of Cloud Integration Automation service scales dynamically 
             2.  Choose *Create*.
 
         -   Create a service key without certificate
+            1.  In the *New Service Key* wizard, enter a name for your service key.
+            2.  Choose *Create*.
 
-            In the *New Service Key* wizard, choose a name for your service key, and click *Create*.
-
-
-        > ### Note:  
-        > If your Cloud Integration Automation service instance was created before May 2022, you might have to update your service instance before creating a service key with certificate for mTLS communication. Follow the steps in [Updating Service Instances](https://help.sap.com/docs/service-manager/sap-service-manager/updating-service-instances) and add the following instance parameters:
-        > 
-        > > ### Sample Code:  
-        > > ```
-        > > {
-        > >     "authorities": [],
-        > >     "defaultCollectionQueryFilter": "own",
-        > >     "xs-security": {
-        > >         "oauth2-configuration": {
-        > >             "credential-types": [
-        > >                 "binding-secret",
-        > >                 "instance-secret",
-        > >                 "x509"
-        > >             ]
-        > >         }
-        > >     }
-        > > }
-        > > ```
 
     3.  Using the fetched client id and client secret, generate an OAuth JWT token and connect to Cloud Integration Automation service. For more information, see [Creating Service Keys](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/4514a14ab6424d9f84f1b8650df609ce.html).
 
