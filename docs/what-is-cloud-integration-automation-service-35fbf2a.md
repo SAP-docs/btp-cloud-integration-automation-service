@@ -166,14 +166,13 @@ The following integration scenarios are currently supported:
 ### Intelligent Enterprise - Recruit to Retire - Hire to Retire
 
 -   Payroll Processing with SAP SuccessFactors Employee Central Payroll \(1NL\)
--   SAP S/4HANA On-Premise 2020: SAP SuccessFactors Employee Central Payroll with SAP S/4HANA \(Payroll Processing\)
--   SAP S/4HANA On-Premise 2021: SAP SuccessFactors Employee Central Payroll with SAP S/4HANA \(Payroll Processing\)
+-   On-Premise: Setting up Payroll Processing with SAP SuccessFactors Employee Central Payroll 2020
+-   On-Premise: Setting up Payroll Processing with SAP SuccessFactors Employee Central Payroll 2021
 -   Payroll Processing with SAP ERP HCM Payroll \(3UP\)
--   Workforce Management with SAP Business Technology Platform \(4AF\)
--   SAP S/4HANA On-Premise 2020: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   SAP S/4HANA On-Premise 2021: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   SAP S/4HANA On-Premise 2022: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   Financial Master Data for SAP SuccessFactors Employee Central \(4AJ\)
+-   Workforce Management with SAP Master Data Integration \(Inbound\)
+-   On-Premise: Workforce Integration in SAP S/4HANA 2020
+-   On-Premise: Workforce Integration in SAP S/4HANA 2021
+-   On-Premise: Workforce Integration in SAP S/4HANA 2022
 -   Core HR with SAP SuccessFactors Employee Central \(JB1\)
 
 
@@ -182,12 +181,11 @@ The following integration scenarios are currently supported:
 
 -   Travel Expense Processing with SAP Concur Expense Professional \(1M1\)
 -   Payroll Processing with SAP SuccessFactors Employee Central Payroll \(1NL\)
--   SAP S/4HANA On-Premise 2021: SAP SuccessFactors Employee Central Payroll with SAP S/4HANA \(Payroll Processing\)
--   SAP S/4HANA On-Premise 2021: External Workforce Procurement via SAP Fieldglass \(22K\)
--   Workforce Management with SAP Business Technology Platform \(4AF\)
--   SAP S/4HANA On-Premise 2021: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   SAP S/4HANA On-Premise 2022: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   Financial Master Data for SAP SuccessFactors Employee Central \(4AJ\)
+-   On-Premise: Setting up Payroll Processing with SAP SuccessFactors Employee Central Payroll 2021
+-   On-Premise: External Workforce Procurement via SAP Fieldglass \(22K\) 2021
+-   Workforce Management with SAP Master Data Integration \(Inbound\)
+-   On-Premise: Workforce Integration in SAP S/4HANA 2021
+-   On-Premise: Workforce Integration in SAP S/4HANA 2022
 -   SAP S/4HANA-Concur-Payroll Integration
 
 
@@ -195,12 +193,11 @@ The following integration scenarios are currently supported:
 ### Intelligent Enterprise - Recruit to Retire - External Workforce
 
 -   External Workforce Procurement via SAP Fieldglass \(22K\)
--   SAP S/4HANA On-Premise 2021: External Workforce Procurement via SAP Fieldglass \(22K\)​
--   SAP S/4HANA On-Premise 2022: External Workforce Procurement via SAP Fieldglass \(22K\)​
--   Workforce Management with SAP Cloud Platform Services \(4AF\)
--   SAP S/4HANA On-Premise 2021: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   SAP S/4HANA On-Premise 2022: SAP Master Data Integration with SAP S/4HANA \(Workforce\)
--   Financial Master Data for SAP SuccessFactors Employee Central \(4AJ\)
+-   On-Premise: External Workforce Procurement via SAP Fieldglass \(22K\) 2021
+-   On-Premise: External Workforce Procurement via SAP Fieldglass \(22K\) 2022
+-   Workforce Management with SAP Master Data Integration \(Inbound\)
+-   On-Premise: Workforce Integration in SAP S/4HANA 2021
+-   On-Premise: Workforce Integration in SAP S/4HANA 2022
 
 
 
@@ -226,9 +223,9 @@ The following integration scenarios are currently supported:
 -   Guided Buying for Central Procurement with SAP Ariba Buying \(3EN\)
 -   On-Premise: Guided Buying for Central Procurement with SAP Ariba Buying \(3EN\) 2021
 -   On-Premise: Guided Buying for Central Procurement with SAP Ariba Buying \(3EN\) 2022
--   On-Premise: Automation of Order-to-Invoice with Ariba Network \(4A1\) 2020
--   On-Premise: Automation of Order-to-Invoice with Ariba Network \(4A1\) 2021
--   On-Premise: Automation of Order-to-Invoice with Ariba Network \(4A1\) 2022
+-   On-Premise: Automation of Order-to-Invoice with SAP Business Network \(4A1\) 2020
+-   On-Premise: Automation of Order-to-Invoice with SAP Business Network \(4A1\) 2021
+-   On-Premise: Automation of Order-to-Invoice with SAP Business Network \(4A1\) 2022
 
 
 
@@ -247,13 +244,13 @@ The following integration scenarios are currently supported:
 ### Intelligent Enterprise - Source to Pay - Supplier Collaboration/Network
 
 -   Automation of Source-to-Pay with Ariba Network \(42K\)
--   On-Premise: Automation of Source-to-Pay with Ariba Network \(42K\) 2020
--   On-Premise: Automation of Source-to-Pay with Ariba Network \(42K\) 2021
--   On-Premise: Automation of Source-to-Pay with Ariba Network \(42K\) 2022
+-   On-Premise: Automation of Source-to-Pay with SAP Business Network \(42K\) 2020
+-   On-Premise: Automation of Source-to-Pay with SAP Business Network \(42K\) 2021
+-   On-Premise: Automation of Source-to-Pay with SAP Business Network \(42K\) 2022
 -   Services Procurement with Ariba Network and SAP Fieldglass \(4R2\)
--   On-Premise:Services Procurement with Ariba Network and SAP Fieldglass \(4R2\) 2022
--   Subcontracting with Ariba Network \(5I2\)
--   On-Premise: Subcontracting with Ariba Network \(5I2\) 2022
+-   On-Premise: Services Procurement with SAP Business Network and SAP Fieldglass \(4R2\) 2022
+-   Subcontracting with SAP Business Network \(5I2\)
+-   On-Premise: Subcontracting with SAP Business Network \(5I2\) 2022
 -   Automation of Central Procurement Quotes with Ariba Net \(5JT\)
 -   On-Premise: Automation of Central Procurement Quotes with Ariba Net \(5JT\) 2021
 -   On-Premise: Automation of Central Procurement Quotes with Ariba Net \(5JT\) 2022
@@ -273,9 +270,19 @@ The following integration scenarios are currently supported:
 
 
 
+### SAP Cloud for Projects
+
+-   SAP S/4HANA Cloud for Project - Project Collaboration
+
+
+
+
+
 ### SAP Business Technology Platform \(BTP\) Services
 
--   SAP Business Network Asset Collaboration on SAP BTP
+-   SAP Business Network Asset Collaboration Setup on BTP
+-   SAP Asset Performance Management
+-   SAP Group Reporting Data Collection
 
 
 
@@ -291,7 +298,7 @@ The following integration scenarios are currently supported:
 
 ### SAP Integrated Business Planning \(IBP\)
 
--   Connectivity Setup of Real-Time Integration \(RTI\) in SAP IBP
+-   Configuring Real-Time Integration \(RTI\) in SAP IBP
 
 
 
@@ -302,7 +309,7 @@ The following integration scenarios are currently supported:
 
 
 
-### SAP S/4HANA Cloud Integration Scenarios
+### SAP S/4HANA Cloud Integration
 
 -   Travel Expense Processing with SAP Concur Expense Professional \(1M1\)
 -   Payroll Processing with SAP SuccessFactors Employee Central Payroll \(1NL\)
@@ -331,25 +338,29 @@ The following integration scenarios are currently supported:
 -   Payroll Processing with SAP ERP HCM Payroll \(3UP\)
 -   Third-Party Shop Floor Execution - Process Industry \(3W3\)
 -   Third-Party Shop Floor Execution - Discrete Industry \(3W4\)
--   Automation of Source-to-Pay with Ariba Network \(42K\)
+-   Automation of Source-to-Pay with SAP Business Network \(42K\)
 -   Service Order Processing with SAP Field Service Management \(49X\)
--   Automation of Order-to-Invoice with Ariba Network \(4A1\)
--   Workforce Management with SAP Cloud Platform Services \(4AF\)
+-   Automation of Order-to-Invoice with SAP Business Network \(4A1\)
+-   Workforce Management with SAP Master Data Integration \(Inbound\)
 -   Financial Master Data for SAP SuccessFactors Employee Central \(4AJ\)
 -   Contract Management with SAP Ariba Contracts \(4AZ\)
 -   Contract for Central Procurement with Ariba Contracts\(4B0\)
 -   Sourcing with SAP Ariba Sourcing \(4BL\)
 -   SAP Central Invoice Management \(4N6\)
 -   Central Procurement with SAP Ariba Sourcing \(4QN\)
--   Services Procurement with Ariba Network and SAP Fieldglass \(4R2\)
+-   Services Procurement with SAP Business Network and SAP Fieldglass \(4R2\)
+-   ABAP Core Data Services Extraction for SAP Datasphere \(53L\)
 -   Digital Payments Foundation \(53V\)
 -   Subscription Management with Sales Billing \(57Z\)
--   Subcontracting with Ariba Network \(5I2\)
+-   Subcontracting with SAP Business Network \(5I2\)
 -   Subscription Management with Convergent Invoicing \(5IK\)
 -   Automation of Central Procurement Quotes with Ariba Network \(5JT\)
 -   Real Estate Integration between S/4HANA cloud with C4RE \(5VX\)
--   MRP Change Request Integration with Ariba Network \(65D\)
--   SAP S/4HANA Cloud For Projects- Project Collaboration
+-   MRP Change Request Integration with SAP Business Network \(65D\)
+-   Solution Order Quotation Management with SAP CPQ \(6BV\)
+-   S/4HANA Cloud for Projects, Collaborative Project Management \(6JN\)
+-   Resource Management for Projects \(6JO\)
+-   Integrate SAP S/4HCE with SAP Sales and Service Cloud \(6KO\)
 -   Core HR with SAP SuccessFactors Employee Central \(JB1\)
 
 
@@ -359,26 +370,42 @@ The following integration scenarios are currently supported:
 ### SAP S/4HANA On-Premise Integration
 
 -   Configuration for Connectivity S/4HANA to SAP Digital Manufacturing Cloud
--   On-Premise: Setting up Payroll Processing with SAP SuccessFactors Employee Central Payroll 2022
 -   On-Premise: External Workforce Procurement via SAP Fieldglass \(22K\) 2022
+-   On-Premise: External Workforce Procurement via SAP Fieldglass \(22K\) 2023
 -   On-Premise: Integration of Procurement with External Suppliers \(2EJ\) 2022
+-   On-Premise: Integration of Procurement with External Suppliers \(2EJ\) 2023
 -   On-Premise: Integration of Sales with External Buyers \(2EL\) 2022
+-   On-Premise: Integration of Sales with External Buyers \(2EL\) 2023
 -   On-Premise: Guided Buying Capability with SAP Ariba Buying \(2NV\) 2022
+-   On-Premise: Guided Buying Capability with SAP Ariba Buying \(2NV\) 2023
 -   On-Premise: B2B Order Fulfillment with SAP Commerce Cloud \(2TY\) 2022
 -   On-Premise: Guided Buying for Central Procurement with SAP Ariba Buying \(3EN\) 2022
--   On-Premise: Set Up Automation of Source-to-Pay with Ariba Network \(42K\) 2022
--   On-Premise: Automation of Order-to-Invoice with Ariba Network \(4A1\) 2022
+-   On-Premise: Guided Buying for Central Procurement with SAP Ariba Buying \(3EN\) 2023
+-   On-Premise: Set Up Automation of Source-to-Pay with SAP Business Network \(42K\) 2022
+-   On-Premise: Set Up Automation of Source-to-Pay with SAP Business Network \(42K\) 2023
+-   On-Premise: Automation of Order-to-Invoice with SAP Business Network \(4A1\) 2022
+-   On-Premise: Automation of Order-to-Invoice with SAP Business Network \(4A1\) 2023
 -   On-Premise: Workforce Integration in SAP S/4HANA 2022
+-   On-Premise: Workforce Integration in SAP S/4HANA 2023
 -   On-Premise: Workforce Integration in SAP S/4HANA as Producer 2022
--   On-Premise:Contract Management with SAP Ariba Contracts \(4AZ\) 2022
+-   On-Premise: Workforce Integration in SAP S/4HANA as Producer 2023
+-   On-Premise: Contract Management with SAP Ariba Contracts \(4AZ\) 2022
+-   On-Premise: Contract Management with SAP Ariba Contracts \(4AZ\) 2023
 -   On-Premise: Contract for Central Procurement with SAP Ariba Contracts \(4B0\) 2022
+-   On-Premise: Contract for Central Procurement with SAP Ariba Contracts \(4B0\) 2023
 -   On-Premise: Sourcing with SAP Ariba Sourcing \(4BL\) 2022
+-   On-Premise: Sourcing with SAP Ariba Sourcing \(4BL\) 2023
 -   On-Premise: Central Procurement with SAP Ariba Sourcing \(4QN\) 2022
--   On-Premise: Services Procurement with Ariba Network and SAP Fieldglass \(4R2\) 2022
--   On-Premise: Subcontracting with Ariba Network \(5I2\) 2022
+-   On-Premise: Central Procurement with SAP Ariba Sourcing \(4QN\) 2023
+-   On-Premise: Services Procurement with SAP Business Network and SAP Fieldglass \(4R2\) 2022
+-   On-Premise: Services Procurement with SAP Business Network and SAP Fieldglass \(4R2\) 2023
+-   On-Premise: Subcontracting with SAP Business Network \(5I2\) 2022
+-   On-Premise: Subcontracting with SAP Business Network \(5I2\) 2023
 -   On-Premise: Automation of Central Procurement Quotes with Ariba Net \(5JT\) 2022
--   On-Premise: MRP Change Request Integration with Ariba Network \(65D\) 2022
--   Asset Intelligence Network integration with S/4HANA On-Premise
+-   On-Premise: Automation of Central Procurement Quotes with Ariba Net \(5JT\) 2023
+-   On-Premise: MRP Change Request Integration with SAP Business Network \(65D\) 2022
+-   On-Premise: MRP Change Request Integration with SAP Business Network \(65D\) 2023
+-   SAP Business Network Asset Collaboration integration with S/4HANA On-Premise
 
 
 
@@ -388,5 +415,13 @@ The following integration scenarios are currently supported:
 
 -   Replicating Cost Centers from SAP S/4HANA On-Premise to SAP SuccessFactors Employee Central
 -   Migrating Employee and Organizational Data from SAP S/4HANA On-Premise to SAP SuccessFactors Employee Central
--   Basic System Setup for Data Replication from SAP SuccessFactors Employee Central to SAP S/4HANA On Premise
+-   Basic System Setup for Data Replication from SAP SuccessFactors Employee Central to SAP S/4HANA On-Premise
+
+
+
+
+
+### SAP SuccessFactors Employee Central Payroll
+
+-   Configure Pay Statement \(Direct\) Integration in SFEC and ECP
 

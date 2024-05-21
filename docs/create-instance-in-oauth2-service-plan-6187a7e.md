@@ -8,9 +8,9 @@ You can create an instance of Cloud Integration Automation service in the OAuth2
 
 ## Context
 
-In SAP BTP, Cloud Foundry environment, you enable services by creating a service instance using either the SAP BTP cockpit or the Cloud Foundry command-line interface \(CLI\), and binding that instance to your application. A service instance is a single instantiation of a service running on SAP BTP. For more information, see [About Services](https://help.sap.com/docs/btp/sap-business-technology-platform/about-services).
+To enable services in SAP BTP, Cloud Foundry environment, you can create a service instance using either the SAP BTP cockpit or the Cloud Foundry command-line interface \(CLI\), and bind that instance to your application. A service instance is a single instantiation of a service running on SAP BTP. For more information, see [About Services](https://help.sap.com/docs/btp/sap-business-technology-platform/about-services).
 
-The service instance of Cloud Integration Automation service scales dynamically according to usage; creating additional service instances has no impact on the available resources. All service instances within the same organization share the same data.
+The service instance of Cloud Integration Automation service scales dynamically according to usage; creating additional service instances that has no impact on the available resources. All service instances within the same organization share the same data.
 
 
 
@@ -20,9 +20,9 @@ The service instance of Cloud Integration Automation service scales dynamically 
 
 2.  Choose *Service Marketplace* displayed under *Services*.
 
-3.  Choose the *Cloud Integration Automation Service* tile and click *Create*.
+3.  Choose the *Cloud Integration Automation Service* tile.
 
-4.  Click *Create*.
+4.  Choose *Create*.
 
 5.  In the pop-up, choose plan *OAuth2*.
 
