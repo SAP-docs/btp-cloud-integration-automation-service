@@ -20,26 +20,29 @@ The service instance of Cloud Integration Automation service scales dynamically 
 
 2.  Choose *Service Marketplace* displayed under *Services*.
 
-3.  Choose the *Cloud Integration Automation Service* tile.
+3.  Choose the *Cloud Integration Automation* tile in the Integration section.
 
 4.  Choose *Create*.
 
-5.  In the pop-up, choose plan *OAuth2*.
+5.  In the *New Instance or Subscription* pop-up, choose *oAuth2* plan.
 
-6.  Choose *Other* or *Cloud Foundry* as Runtime Environment.
+6.  Choose *Other* or *Cloud Foundry* as Runtime Environment based to your requirements.
 
     > ### Note:  
-    > Cloud Foundry is displayed in the drop-down only if Cloud Foundry is enabled.
+    > You can see *Cloud Foundry* in the drop-down options only when you've enabled it.
 
 7.  Enter a suitable name for the instance.
 
+    > ### Note:  
+    > No specific parameters are needed to subscribe to Cloud Integration Automation service.
+
 8.  Choose *Create*. The newly created instance is displayed on the *Instances* page.
 
-9.  You need a service key if you want to call the service API standalone without a UI, for example, from Postman. Follow the below steps to create a service key. This is an optional step.
+9.  You need a service key if you want to call the service API standalone without a UI, for example, from Postman. You can create a service key with or without a certificate. A certificate is required when setting up an mTLS communication. Follow the below steps to create a service key. This is an optional step.
 
     1.  On the *Instances* page, click the *Actions* icon of the created service instance.
 
-    2.  Choose *Create Service Key*. You can create a service key with or without a certificate. A certificate is required when setting up an mTLS communication.
+    2.  Choose *Create Service Key* if you've created an instance using *Cloud Foundry* runtime environment or choose *Create Service Binding* if you've created an instance using *Other* runtime environment.
 
         -   Create a service key with certificate
             1.  In the *New Service Key* wizard, choose a name for your service key and specify the following parameters in JSON format:

@@ -35,6 +35,7 @@ For an effortless integration, ensure the following prerequisites:
     -   US East \(VA\) US10
     -   Australia \(Sydney\) AP10
     -   Japan \(Tokyo\) JP10
+    -   Canada \(Montreal\) CA10
 
 
     
@@ -48,7 +49,10 @@ For an effortless integration, ensure the following prerequisites:
     </td>
     <td valign="top">
     
-    Europe \(Netherlands\) EU20
+    -   Europe \(Netherlands\) EU20
+    -   China \(North 3\) CN20
+
+
     
     </td>
     </tr>

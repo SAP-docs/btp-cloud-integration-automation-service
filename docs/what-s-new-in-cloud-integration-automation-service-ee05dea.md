@@ -6,6 +6,274 @@
 
 
 
+**2025**
+
+
+<table>
+<tr>
+<th valign="top">
+
+Technical Component
+
+</th>
+<th valign="top">
+
+Environment
+
+</th>
+<th valign="top">
+
+Title
+
+</th>
+<th valign="top">
+
+Description
+
+</th>
+<th valign="top">
+
+Action
+
+</th>
+<th valign="top">
+
+Lifecycle
+
+</th>
+<th valign="top">
+
+Type
+
+</th>
+<th valign="top">
+
+Line of Business
+
+</th>
+<th valign="top">
+
+Modular Business Process
+
+</th>
+<th valign="top">
+
+Product
+
+</th>
+<th valign="top">
+
+Latest Revision
+
+</th>
+<th valign="top">
+
+Available as of
+
+</th>
+</tr>
+<tr>
+<td valign="top">
+
+Cloud Integration Automation Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New Data Center
+
+</td>
+<td valign="top">
+
+You can now subscribe to Cloud Integration Automation service in the new data center - China \(CN20\).
+
+For more information, see [Prerequisites](prerequisites-2eae0b6.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2024-04-11
+
+</td>
+</tr>
+</table>
+
+**2024**
+
+
+<table>
+<tr>
+<th valign="top">
+
+Technical Component
+
+</th>
+<th valign="top">
+
+Environment
+
+</th>
+<th valign="top">
+
+Title
+
+</th>
+<th valign="top">
+
+Description
+
+</th>
+<th valign="top">
+
+Action
+
+</th>
+<th valign="top">
+
+Lifecycle
+
+</th>
+<th valign="top">
+
+Type
+
+</th>
+<th valign="top">
+
+Line of Business
+
+</th>
+<th valign="top">
+
+Modular Business Process
+
+</th>
+<th valign="top">
+
+Product
+
+</th>
+<th valign="top">
+
+Latest Revision
+
+</th>
+<th valign="top">
+
+Available as of
+
+</th>
+</tr>
+<tr>
+<td valign="top">
+
+Cloud Integration Automation Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New Data Center
+
+</td>
+<td valign="top">
+
+You can now subscribe to Cloud Integration Automation service in the new data center - Montreal \(CA10\).
+
+For more information, see [Prerequisites](prerequisites-2eae0b6.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2024-07-30
+
+</td>
+</tr>
+</table>
+
 **2023**
 
 
@@ -288,7 +556,7 @@ New Data Center
 </td>
 <td valign="top">
 
-You can now subscribe to Cloud Integration Automation service in the new data center Tokyo \(JP10\).
+You can now subscribe to Cloud Integration Automation service in the new data center - Tokyo \(JP10\).
 
 For more information, see [Prerequisites](prerequisites-2eae0b6.md).
 
