@@ -47,12 +47,12 @@ Integration Monitor
 </td>
 <td valign="top">
 
-CIASIntegration Monitor
+CIASIntegrationMonitor
 
 </td>
 <td valign="top">
 
--   Read-only access to *Scenario Execution Monitoring* application.
+-   Read-only access to *Monitor Integration Scenarios* section.
 -   Work on assigned tasks.
 
 
@@ -77,7 +77,6 @@ CIASIntegrationExpert
 
 
 
-
 </td>
 </tr>
 <tr>
@@ -88,20 +87,14 @@ Integration Administrator
 </td>
 <td valign="top">
 
-CIASIntegrationAdministrator
+CIASIntegrationAdmin
 
 </td>
 <td valign="top">
 
--   Access to *My Inbox* application.
-
--   Access to *Plan for Integration*.
--   Access to *Scenario Execution Monitoring*.
-
--   Review the workflow execution plan like confirm landscape, role assignment, and scope selection.
-
--   Monitor the workflow execution and terminate a scenario.
-
+-   Access to *Plan Integration Scenarios*, *My Inbox*, and *Monitor Integration Scenarios* sections.
+-   Plan and confirm the integration scenario details like landscape, role assignment, and scope selection.
+-   Monitor the integration scenario progress and cancel an integration if needed.
 -   Plan a new integration scenario.
 
 
@@ -117,8 +110,8 @@ CIASIntegrationAdministrator
 As part of the subscription process, three role collections are created by default. You can add one or more users to these role collections to assign the roles associated with them:
 
 -   CIASIntegrationExpert
--   CIASIntegration Monitor
--   CIASIntegrationAdministrator
+-   CIASIntegrationMonitor
+-   CIASIntegrationAdmin
 
 
 

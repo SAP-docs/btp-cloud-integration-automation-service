@@ -428,3 +428,27 @@ The following integration scenarios are currently supported:
 
 -   Setup Integration of Business Transformation Center with ECC and S/4HANA On-Premise
 
+
+
+### Joule Provisioning
+
+-   SAP S/4HANA Cloud Private Edition Joule Integration
+
+
+
+### Document Grounding
+
+-   Document Grounding
+
+
+
+### Business Data Cloud
+
+-   Set up Integration of Business Data Cloud with S/4HANA Cloud Private Edition
+
+
+
+### SAP Business Suite Transition for Mid-market
+
+-   Shopify Integration with S/4HANA Public Cloud
+

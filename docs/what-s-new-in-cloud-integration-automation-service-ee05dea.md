@@ -6,6 +6,210 @@
 
 
 
+**2026**
+
+
+<table>
+<tr>
+<th valign="top">
+
+Technical Component
+
+</th>
+<th valign="top">
+
+Environment
+
+</th>
+<th valign="top">
+
+Title
+
+</th>
+<th valign="top">
+
+Description
+
+</th>
+<th valign="top">
+
+Action
+
+</th>
+<th valign="top">
+
+Lifecycle
+
+</th>
+<th valign="top">
+
+Type
+
+</th>
+<th valign="top">
+
+Line of Business
+
+</th>
+<th valign="top">
+
+Modular Business Process
+
+</th>
+<th valign="top">
+
+Product
+
+</th>
+<th valign="top">
+
+Latest Revision
+
+</th>
+<th valign="top">
+
+Available as of
+
+</th>
+</tr>
+<tr>
+<td valign="top">
+
+Cloud Integration Automation Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New Integration Scenarios
+
+</td>
+<td valign="top">
+
+Introducing three new integration scenarios -
+
+-   *Shopify Integration with S/4HANA Public Cloud*: Boosts the integration between SAP S/4HANA Cloud Public Edition and Shopify with end-to-end bidirectional business processes. These processes include master data creation, order fulfillment, and cancellations. The integration enables smooth, semi-automated data flow and operations.
+-   *Document Grounding*: Supports data sources for content integration, including Microsoft SharePoint and SAP Document Service. This flexibility enables you to use diverse content repositories and ensure comprehensive grounding across your enterprise landscape.
+-   *Setup Integration of Business Data Cloud with S/4HANA Cloud Private Edition*: Connects your S/4HANA Cloud Private Edition client with SAP Business Data Cloud and enables the Cloud ERP Intelligence Private Intelligent Application. This application unifies finance, supply chain, and operations data, giving you real-time visibility to adapt faster, reduce risk, and drive sustainable growth.
+
+To view the complete list of supported scenarios, see [Supported Scenarios](what-is-cloud-integration-automation-service-35fbf2a.md#loiob38977dd690e492e895b7013ac9721c2).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-02-27
+
+</td>
+<td valign="top">
+
+2026-02-27
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Cloud Integration Automation Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Enhancements to Integration Scenario Planning
+
+</td>
+<td valign="top">
+
+The integration scenario planning now includes a new flow that makes it easier to configure mandatory parameters before starting the integration.
+
+For more information, see [Using Cloud Integration Automation Service](using-cloud-integration-automation-service-5ccb2ce.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-02-27
+
+</td>
+<td valign="top">
+
+2026-02-27
+
+</td>
+</tr>
+</table>
+
 **2025**
 
 
@@ -87,14 +291,14 @@ Cloud Integration Automation Service
 </td>
 <td valign="top">
 
-New Data Center
+New Integration Scenario
 
 </td>
 <td valign="top">
 
-You can now subscribe to Cloud Integration Automation service in the new data center - China \(CN20\).
+Introducing a new integration scenario - Joule Integration with S/4HANA Cloud Private Edition.
 
-For more information, see [Prerequisites](prerequisites-2eae0b6.md).
+Using this scenario, you can integrate Joule with your S/4HANA Cloud Private Edition system.
 
 </td>
 <td valign="top">
@@ -109,7 +313,7 @@ Info only
 </td>
 <td valign="top">
 
-New
+Announcement
 
 </td>
 <td valign="top">
@@ -134,7 +338,73 @@ Not applicable
 </td>
 <td valign="top">
 
-2024-04-11
+2025-10-17
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Cloud Integration Automation Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New Data Center
+
+</td>
+<td valign="top">
+
+You can now subscribe to Cloud Integration Automation service in the new data center - China \(CN20\).
+
+For more information, see [Prerequisites](prerequisites-2eae0b6.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2025-04-11
 
 </td>
 </tr>
@@ -1094,7 +1364,7 @@ Scenario Tasks
 
 -   You can now see the progress bar on the Inbox task, which shows the current task of the total tasks in the scenario.
 
--   You can now see on-screen text and mouseover texts added to different sections of the UI.
+-   You can now see on-screen text and tooltips added to different sections of the UI.
 
 
 

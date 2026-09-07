@@ -4,7 +4,7 @@
 
 # Using Cloud Integration Automation Service
 
-You can plan for an integration scenario in Cloud Integration Automation service using the *Plan for Integration* tile.
+You can plan for an integration scenario in Cloud Integration Automation service using the *Plan Integration Scenarios* tile.
 
 
 
@@ -15,31 +15,33 @@ You can plan for an integration scenario in Cloud Integration Automation service
 1.  Launch the Cloud Integration Automation service.
 
     > ### Note:  
-    > The Cloud Integration Automation service link is available in the *Instances and Subscription* tab of the SAP BTP subaccount where Cloud Integration Automation service is subscribed. Choose the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons-V5"></span> \(Go to Application\) icon in the *Application* column.
+    > The Cloud Integration Automation service link is available in the *Instances and Subscription* tab of the SAP BTP subaccount where Cloud Integration Automation service is subscribed. Click the link to launch the Cloud Integration Automation service and obtain its URL. To find the link, either select the subscription row to open more details about the subscription or click on the <span class="SAP-icons-V5"></span> \(Go to Application\) icon in the *Application* column.
 
-2.  Select the *Plan for Integration* tile.
-3.  Select one of the available solutions from the *Solutions* tab.
-4.  Select one of the available scenarios in the solution.
-
-    Alternatively, you can also add a scenario in the search box. This will restrict the number of solutions where the scenario is available.
-
-5.  From the available options, select a scenario option.
-6.  Select the systems for integration.
+2.  Select the *Plan Integration Scenarios* tile.
+3.  From the available integration solutions, search and select a scenario that you want to integrate.
+4.  The default scenario option is automatically selected. In case of multiple scenario options, choose one according to your requirements.
+5.  Click *Start*.
+6.  Select the scope according to your requirements for this integration.
+7.  Click *Next Step*.
 
     The systems and tenants are listed according to the customer number to which the SAP BTP global account is assigned to where Cloud Integration Automation service is subscribed.
 
-    In case a system or tenant is not visible, proceed with the next steps. You can enter the landscape data manually. To enter the data, navigate to the *Confirm System Components* task in the *My Inbox* tile of Cloud Integration Automation service.
+8.  Select system details for each service by choosing a tenant from the value help or entering the information manually. When you select a tenant from the value help, the system automatically prefills other system details.
+9.  Click *Next Step*.
+10. By default, all roles are assigned to you. You can also add other users who have access to the required SAP systems by separating their names with commas.
+11. Click *Next Step*.
 
-7.  Invoke the workflow.
+    A list of all the prerequisites mandatory for this integration is displayed.
 
-    > ### Note:  
-    > The selected systems may belong to different landscapes. For such instances, you are prompted to confirm with the integration between such systems. If yes, click *Proceed*. Click *Cancel* to choose different systems.
-    > 
-    > To invoke the workflow, enter the following:
-    > 
-    > 1.  The subaccount where Cloud Integration Automation service workflow will be generated defaults to subaccount where Cloud Integration Automation service is currently accessed.
-    > 2.  In the input field for SAP BTP Workflow Users: provide the list of users who receives the first task. Ensure that these users can access the SAP BTP subaccount.
-    > 3.  Provide the Cloud Integration Automation Service Transaction Name, which will be referred to *My Inbox* and *Scenario Execution Monitoring* tiles in Cloud Integration Automation service.
+12. Complete all the listed prerequisites and mark them to proceed.
+13. Click *Next Step*.
+14. Enter all the required parameters to automatically run the integration in the background.
+15. Click *Next Step*.
+16. The *Scenario Instance Name* is prefilled based on the scenario you selected. You can edit it according to your needs.
+17. You can either run the integration automatically in the background or set it up using guided tasks. Select the *Integration Setup Mode* accordingly.
+18. Read the disclaimer and select the checkbox.
+19. Review the information you provided in the previous steps and click *Finish*.
 
-8.  Upon successful workflow generation, a link is generated to view the task in the *My Inbox* tile.
+    Based on the selected integration setup mode, either the *My Inbox* button \(for background mode\) or the *Monitor Integration Scenarios* button \(for step-by-step mode\) is displayed in the Integration Overview.
+
 
